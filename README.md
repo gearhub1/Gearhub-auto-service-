@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -111,10 +111,10 @@
   </nav>  <div class="section services" id="services">
     <h2>Our Services</h2>
     <ul>
-      <li>Engine Rebuild & General Services</li>
-      <li>Gearboxes</li>
-      <li>Electric & Wiring</li>
-      <li>Clutches</li>
+      <li>🚗Engine Rebuild & General Services</li>
+      <li>🔧Gearboxes</li>
+      <li>🆘Electric & Wiring</li>
+      <li>🛠Clutches</li>
       <li>Suspension</li>
       <li>Radiators</li>
       <li>Clutch Actuators (Recondition & Reprogramming)</li>
