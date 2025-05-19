@@ -1,5 +1,4 @@
-
-  <title>GearHub Auto Services</title>
+ <title>GearHub Auto Services</title>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
@@ -106,7 +105,6 @@
     <a href="#contact">Contact</a>
     <a href="#reviews">Reviews</a>
   </nav>  <div class="section services" id="services">
-    <h2>Our Services</h2>
     <section id="services" style="padding: 40px; background-color: #f4faff;">
   <h2 style="text-align: center; color: #0077cc; font-size: 32px;">Our Services</h2>
   <div style="max-width: 900px; margin: auto; display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-top: 30px;">
