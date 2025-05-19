@@ -1,5 +1,8 @@
 <html lang="en">
 <head>
+ <img
+   src="https://github.com/gearhub1/Welcome-to-GearHub-Auto-Services-website/blob/main/IMG-20250328-WA0007(2).jpg  alt="Description"
+  style="width:300px;">
   <svg width="120" height="120" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" style="margin-bottom: 0.5rem;">
   <g transform="translate(100,100)">
     <circle r="60" fill="#0052cc" stroke="#000" stroke-width="5"/>
