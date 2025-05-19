@@ -17,27 +17,7 @@
       text-align: center;
       position: relative;
     }
-    header img {
-      max-width: 120px;
-      margin-bottom: 1rem;
-    }
-    nav {
-      background: #004bb5;
-      display: flex;
-      justify-content: center;
-      padding: 1rem;
-    }
-    nav a {
-      color: white;
-      margin: 0 1rem;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    .section {
-      padding: 2rem 1rem;
-      max-width: 1000px;
-      margin: auto;
-    }
+    header 
     .services, .reviews, .contact, .booking {
       background: white;
       border-radius: 10px;
