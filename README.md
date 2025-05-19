@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
  <title>GearHub Auto Services</title>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   <style>
