@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
- <title>GearHub Auto Services</title>
+<title>GearHub Auto Services</title>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
@@ -18,26 +18,26 @@
       position: relative;
     }
     header img {
-      max-width: 120px;
-      margin-bottom: 1rem;
-    }
-    nav {
-      background: #004bb5;
-      display: flex;
-      justify-content: center;
-      padding: 1rem;
-    }
-    nav a {
-      color: white;
-      margin: 0 1rem;
-      text-decoration: none;
-      font-weight: bold;
-    }
-    .section {
-      padding: 2rem 1rem;
-      max-width: 1000px;
-      margin: auto;
-    }
+      max-width: 120px;
+      margin-bottom: 1rem;
+    }
+    nav {
+      background: #004bb5;
+      display: flex;
+      justify-content: center;
+      padding: 1rem;
+    }
+    nav a {
+      color: white;
+      margin: 0 1rem;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .section {
+      padding: 2rem 1rem;
+      max-width: 1000px;
+      margin: auto;
+    }
     .services, .reviews, .contact, .booking {
       background: white;
       border-radius: 10px;
@@ -130,7 +130,6 @@
       <h3 style="color: #003366;">Electric & Wiring</h3>
       <p>Electrical diagnostics, wiring fixes, lighting systems, and ECU repairs.</p>
     </div>
-
     <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
       <h3 style="color: #003366;">Clutches</h3>
       <p>Clutch replacements, hydraulic systems, and adjustments for smooth gear shifting.</p>
