@@ -1,4 +1,4 @@
-
+</head>
   <title>GearHub Auto Services</title>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   <style>
@@ -108,17 +108,17 @@
   </nav>  <div class="section services" id="services">
     <h2>Our Services</h2>
     <ul>
-      <li>Engine Rebuild & General Services</li>
-      <li>Gearboxes</li>
-      <li>Electric & Wiring</li>
-      <li>Clutches</li>
-      <li>Suspension</li>
-      <li>Radiators</li>
-      <li>Clutch Actuators (Recondition & Reprogramming)</li>
-      <li>Tyre Services</li>
-      <li>Timing Belts & Chains</li>
-      <li>Exhausts</li>
-      <li>Brakes & Discs</li>
+      <li>🛞Engine Rebuild & General Services🚗</li>
+      <li>🚗Gearboxes🛞</li>
+      <li>🛞Electric & Wiring🚗</li>
+      <li>🚗Clutches🛞</li>
+      <li>🛞Suspension🚗</li>
+      <li>🚗Radiators🛞</li>
+      <li>🛞Clutch Actuators (Recondition & Reprogramming)🚗</li>
+      <li>🚗Tyre Services🛞</li>
+      <li>🛞Timing Belts & Chains🚗</li>
+      <li>🚗Exhausts🛞</li>
+      <li>🛞Brakes & Discs🚗</li>
     </ul>
   </div>  <div class="section booking" id="booking">
     <h2>Book an Appointment</h2>
