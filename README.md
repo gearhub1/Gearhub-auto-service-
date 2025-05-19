@@ -107,19 +107,72 @@
     <a href="#reviews">Reviews</a>
   </nav>  <div class="section services" id="services">
     <h2>Our Services</h2>
-    <ul>
-      <li>🛞Engine Rebuild & General Services🚗</li>
-      <li>🚗Gearboxes🛞</li>
-      <li>🛞Electric & Wiring🚗</li>
-      <li>🚗Clutches🛞</li>
-      <li>🛞Suspension🚗</li>
-      <li>🚗Radiators🛞</li>
-      <li>🛞Clutch Actuators (Recondition & Reprogramming)🚗</li>
-      <li>🚗Tyre Services🛞</li>
-      <li>🛞Timing Belts & Chains🚗</li>
-      <li>🚗Exhausts🛞</li>
-      <li>🛞Brakes & Discs🚗</li>
-    </ul>
+    <section id="services" style="padding: 40px; background-color: #f4faff;">
+  <h2 style="text-align: center; color: #0077cc; font-size: 32px;">Our Services</h2>
+  <div style="max-width: 900px; margin: auto; display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-top: 30px;">
+    
+    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <h3 style="color: #003366;">Engine Rebuild</h3>
+      <p>Full engine restoration and replacement of internal components to ensure peak performance.</p>
+    </div>
+    
+    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <h3 style="color: #003366;">General Engine Services</h3>
+      <p>Regular maintenance including oil changes, spark plugs, filters, and diagnostics.</p>
+    </div>
+
+    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <h3 style="color: #003366;">Gearboxes</h3>
+      <p>Manual and automatic gearbox repairs, replacements, and reprogramming services.</p>
+    </div>
+
+    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <h3 style="color: #003366;">Electric & Wiring</h3>
+      <p>Electrical diagnostics, wiring fixes, lighting systems, and ECU repairs.</p>
+    </div>
+
+    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <h3 style="color: #003366;">Clutches</h3>
+      <p>Clutch replacements, hydraulic systems, and adjustments for smooth gear shifting.</p>
+    </div>
+
+    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <h3 style="color: #003366;">Suspension</h3>
+      <p>Shock absorbers, springs, and full suspension system checks and repairs.</p>
+    </div>
+
+    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <h3 style="color: #003366;">Radiators</h3>
+      <p>Cooling system repairs, radiator replacements, and leak fixes.</p>
+    </div>
+
+    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <h3 style="color: #003366;">Clutch Actuators</h3>
+      <p>Reconditioning and software reprogramming for modern clutch actuator systems.</p>
+    </div>
+
+    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <h3 style="color: #003366;">Tyres Services</h3>
+      <p>Tyre fitting, balancing, pressure checks, and puncture repairs.</p>
+    </div>
+
+    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <h3 style="color: #003366;">Timing Belts & Chains</h3>
+      <p>Replacement and inspection of timing components to avoid engine damage.</p>
+    </div>
+
+    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <h3 style="color: #003366;">Exhausts</h3>
+      <p>Exhaust pipe repair, muffler replacements, and emissions system services.</p>
+    </div>
+
+    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <h3 style="color: #003366;">Brakes & Discs</h3>
+      <p>Brake pads, discs, and caliper checks for optimal stopping power and safety.</p>
+    </div>
+
+  </div>
+</section>
   </div>  <div class="section booking" id="booking">
     <h2>Book an Appointment</h2>
     <form>
