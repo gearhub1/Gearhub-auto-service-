@@ -1,7 +1,8 @@
+
 <html lang="en">
 <head>
-<title>GearHub Auto Services</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <title>GearHub Auto Services</title>  
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">  
   <style>
     body {
       font-family: 'Roboto', sans-serif;
@@ -97,82 +98,76 @@
 </head>
 <body>
   <header>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Car_icon_blue.svg/2048px-Car_icon_blue.svg.png" alt="GearHub Logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Car_icon_blue.svg/2048px-Car_icon_blue.svg.png" alt="GearHub Logo" style="max-width: 120px; margin-bottom: 0.5rem;">
     <h1>GearHub Auto Services</h1>
     <p>Leicester | 8C Asfordby Street, LE5 3QG</p>
   </header>
+
   <nav>
     <a href="#services">Services</a>
     <a href="#booking">Book</a>
     <a href="#contact">Contact</a>
     <a href="#reviews">Reviews</a>
-  </nav>  <div class="section services" id="services">
-    <section id="services" style="padding: 40px; background-color: #f4faff;">
-  <h2 style="text-align: center; color: #0077cc; font-size: 32px;">Our Services</h2>
-  <div style="max-width: 900px; margin: auto; display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-top: 30px;">
-    
-    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-      <h3 style="color: #003366;">Engine Rebuild</h3>
-      <p>Full engine restoration and replacement of internal components to ensure peak performance.</p>
-    </div>
-    
-    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-      <h3 style="color: #003366;">General Engine Services</h3>
-      <p>Regular maintenance including oil changes, spark plugs, filters, and diagnostics.</p>
-    </div>
+  </nav>
 
-    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-      <h3 style="color: #003366;">Gearboxes</h3>
-      <p>Manual and automatic gearbox repairs, replacements, and reprogramming services.</p>
-    </div>
-
-    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-      <h3 style="color: #003366;">Electric & Wiring</h3>
-      <p>Electrical diagnostics, wiring fixes, lighting systems, and ECU repairs.</p>
-    </div>
-    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-      <h3 style="color: #003366;">Clutches</h3>
-      <p>Clutch replacements, hydraulic systems, and adjustments for smooth gear shifting.</p>
-    </div>
-
-    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-      <h3 style="color: #003366;">Suspension</h3>
-      <p>Shock absorbers, springs, and full suspension system checks and repairs.</p>
-    </div>
-
-    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-      <h3 style="color: #003366;">Radiators</h3>
-      <p>Cooling system repairs, radiator replacements, and leak fixes.</p>
-    </div>
-
-    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-      <h3 style="color: #003366;">Clutch Actuators</h3>
-      <p>Reconditioning and software reprogramming for modern clutch actuator systems.</p>
-    </div>
-
-    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-      <h3 style="color: #003366;">Tyres Services</h3>
-      <p>Tyre fitting, balancing, pressure checks, and puncture repairs.</p>
-    </div>
-
-    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-      <h3 style="color: #003366;">Timing Belts & Chains</h3>
-      <p>Replacement and inspection of timing components to avoid engine damage.</p>
-    </div>
-
-    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-      <h3 style="color: #003366;">Exhausts</h3>
-      <p>Exhaust pipe repair, muffler replacements, and emissions system services.</p>
-    </div>
-
-    <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-      <h3 style="color: #003366;">Brakes & Discs</h3>
-      <p>Brake pads, discs, and caliper checks for optimal stopping power and safety.</p>
-    </div>
-
+  <div class="section services" id="services">
+    <section style="padding: 40px; background-color: #f4faff;">
+      <h2 style="text-align: center; color: #0077cc; font-size: 32px;">Our Services</h2>
+      <div style="max-width: 900px; margin: auto; display: grid; grid-template-columns: 1fr 1fr; gap: 30px; margin-top: 30px;">
+        <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          <h3 style="color: #003366;">Engine Rebuild</h3>
+          <p>Full engine restoration and replacement of internal components to ensure peak performance.</p>
+        </div>
+        <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          <h3 style="color: #003366;">General Engine Services</h3>
+          <p>Regular maintenance including oil changes, spark plugs, filters, and diagnostics.</p>
+        </div>
+        <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          <h3 style="color: #003366;">Gearboxes</h3>
+          <p>Manual and automatic gearbox repairs, replacements, and reprogramming services.</p>
+        </div>
+        <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          
+<h3 style="color: #003366;">Electric & Wiring</h3>
+          <p>Electrical diagnostics, wiring fixes, lighting systems, and ECU repairs.</p>
+        </div>
+        <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          <h3 style="color: #003366;">Clutches</h3>
+          <p>Clutch replacements, hydraulic systems, and adjustments for smooth gear shifting.</p>
+        </div>
+        <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          <h3 style="color: #003366;">Suspension</h3>
+          <p>Shock absorbers, springs, and full suspension system checks and repairs.</p>
+        </div>
+        <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          <h3 style="color: #003366;">Radiators</h3>
+          <p>Cooling system repairs, radiator replacements, and leak fixes.</p>
+        </div>
+        <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          <h3 style="color: #003366;">Clutch Actuators</h3>
+          <p>Reconditioning and software reprogramming for modern clutch actuator systems.</p>
+        </div>
+        <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          <h3 style="color: #003366;">Tyres Services</h3>
+          <p>Tyre fitting, balancing, pressure checks, and puncture repairs.</p>
+        </div>
+        <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          <h3 style="color: #003366;">Timing Belts & Chains</h3>
+          <p>Replacement and inspection of timing components to avoid engine damage.</p>
+        </div>
+        <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          <h3 style="color: #003366;">Exhausts</h3>
+          <p>Exhaust pipe repair, muffler replacements, and emissions system services.</p>
+        </div>
+        <div style="background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+          <h3 style="color: #003366;">Brakes & Discs</h3>
+          <p>Brake pads, discs, and caliper checks for optimal stopping power and safety.</p>
+        </div>
+      </div>
+    </section>
   </div>
-</section>
-  </div>  <div class="section booking" id="booking">
+
+  <div class="section booking" id="booking">
     <h2>Book an Appointment</h2>
     <form>
       <div class="form-group">
@@ -193,21 +188,29 @@
       <a href="https://wa.me/447944121280" target="_blank">WhatsApp</a> |
       <a href="https://www.facebook.com/share/192qrkpp9z/" target="_blank">Facebook</a>
     </div>
-  </div>  <div class="section contact" id="contact">
+  </div>
+
+  <div class="section contact" id="contact">
     <h2>Contact & Hours</h2>
     <p><strong>Phone:</strong> <a href="tel:+447944121280">07944 121280</a></p>
     <p><strong>Email:</strong> <a href="mailto:Gearhub111@gmail.com">Gearhub111@gmail.com</a></p>
     <p><strong>Hours:</strong> Mon-Fri: 7:30 AM - 6 PM, Sat: 7:30 AM - 4 PM, Sun: Closed</p>
-  </div>  <div class="section reviews" id="reviews">
+  </div>
+
+  <div class="section reviews" id="reviews">
     <h2>Customer Reviews</h2>
     <blockquote>“Fantastic service. Highly professional and reliable.” – Adeel H.</blockquote>
     <blockquote>“Best garage in Leicester. Got my brakes fixed quickly.” – Sonia M.</blockquote>
     <blockquote>“Excellent diagnostics and fair pricing.” – James R.</blockquote>
     <blockquote>“Friendly staff and clean workshop. Highly recommended!” – Olivia K.</blockquote>
-  </div>  <div class="section map">
+  </div>
+
+<div class="section map">
     <h2>Find Us</h2>
     <iframe src="https://maps.google.com/maps?q=8C%20Asfordby%20St,%20Leicester&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>
-  </div>  <footer>
+  </div>
+
+  <footer>
     &copy; 2025 GearHub Auto Services. All rights reserved.
   </footer>
 </body>
